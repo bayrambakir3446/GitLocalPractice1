@@ -1,7 +1,7 @@
 package Test2;
 
-public class Test1 {
+public class YeniTest {
     public static void main(String[] args) {
-        System.out.println("Test");
+
     }
 }
